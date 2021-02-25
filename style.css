@@ -1,0 +1,12 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    color: rgb(0, 0, 0);
+}
